@@ -1,0 +1,255 @@
+
+/* Class = "IBUILabel"; text = "上传照片:"; ObjectID = "1Qx-fo-w2R"; */
+"1Qx-fo-w2R.text" = "上传照片:";
+
+/* Class = "IBUILabel"; text = "清理缓存"; ObjectID = "1X4-O8-r19"; */
+"1X4-O8-r19.text" = "清理缓存";
+
+/* Class = "IBUILabel"; text = "益江路盛夏路"; ObjectID = "3cE-eS-ecu"; */
+"3cE-eS-ecu.text" = "益江路盛夏路";
+
+/* Class = "IBUILabel"; text = "已有20人参加"; ObjectID = "62r-mQ-PFw"; */
+"62r-mQ-PFw.text" = "已有20人参加";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "6nH-8X-oaj"; */
+"6nH-8X-oaj.placeholder" = "请输入密码";
+
+/* Class = "IBUILabel"; text = "约会对象:"; ObjectID = "BC2-Ic-Omf"; */
+"BC2-Ic-Omf.text" = "约会对象:";
+
+/* Class = "IBUILabel"; text = "设置"; ObjectID = "Bk9-7O-QhW"; */
+"Bk9-7O-QhW.text" = "设置";
+
+/* Class = "IBUIButton"; normalTitle = "提交活动"; ObjectID = "F7o-Do-oJt"; */
+"F7o-Do-oJt.normalTitle" = "提交活动";
+
+/* Class = "IBUILabel"; text = "内容:"; ObjectID = "FVl-wH-CPz"; */
+"FVl-wH-CPz.text" = "内容:";
+
+/* Class = "IBUITableViewSection"; footerTitle = "     "; ObjectID = "Fd4-Ny-Enu"; */
+"Fd4-Ny-Enu.footerTitle" = "     ";
+
+/* Class = "IBUIButton"; normalTitle = "我要参加"; ObjectID = "GS3-fX-sIq"; */
+"GS3-fX-sIq.normalTitle" = "我要参加";
+
+/* Class = "IBUILabel"; text = "个性签名："; ObjectID = "Gk2-GF-M1n"; */
+"Gk2-GF-M1n.text" = "个性签名：";
+
+/* Class = "IBUIButton"; normalTitle = "我要报名"; ObjectID = "HXU-1t-uLN"; */
+"HXU-1t-uLN.normalTitle" = "我要报名";
+
+/* Class = "IBUILabel"; text = "我发起的活动"; ObjectID = "Hae-mC-BvK"; */
+"Hae-mC-BvK.text" = "我发起的活动";
+
+/* Class = "IBUILabel"; text = "允许别人找到我"; ObjectID = "IYj-Mr-SEV"; */
+"IYj-Mr-SEV.text" = "允许别人找到我";
+
+/* Class = "IBUILabel"; text = "邮箱"; ObjectID = "IiK-Ke-xt6"; */
+"IiK-Ke-xt6.text" = "邮箱";
+
+/* Class = "IBUILabel"; text = "手机"; ObjectID = "JYK-2g-Are"; */
+"JYK-2g-Are.text" = "手机";
+
+/* Class = "IBUILabel"; text = "报名的活动"; ObjectID = "Jns-9J-Hia"; */
+"Jns-9J-Hia.text" = "报名的活动";
+
+/* Class = "IBUITableViewSection"; footerTitle = " "; ObjectID = "L1r-gR-z0B"; */
+"L1r-gR-z0B.footerTitle" = " ";
+
+/* Class = "IBUITextField"; placeholder = "11位手机号"; ObjectID = "LJd-aa-KL4"; */
+"LJd-aa-KL4.placeholder" = "11位手机号";
+
+/* Class = "IBUILabel"; text = "关      系："; ObjectID = "MaW-5m-Dfk"; */
+"MaW-5m-Dfk.text" = "关      系：";
+
+/* Class = "IBUIButton"; normalTitle = "立即注册"; ObjectID = "N3C-io-4Yx"; */
+"N3C-io-4Yx.normalTitle" = "立即注册";
+
+/* Class = "IBUILabel"; text = "梅赛德斯-奔驰中心"; ObjectID = "N6v-34-VDc"; */
+"N6v-34-VDc.text" = "梅赛德斯-奔驰中心";
+
+/* Class = "IBUITextField"; placeholder = "请输入英文和数字"; ObjectID = "Nxw-Qa-f8m"; */
+"Nxw-Qa-f8m.placeholder" = "请输入英文和数字";
+
+/* Class = "IBUITableViewSection"; headerTitle = "安全验证"; ObjectID = "ONv-gH-Ddu"; */
+"ONv-gH-Ddu.headerTitle" = "安全验证";
+
+/* Class = "IBUILabel"; text = "15分钟前"; ObjectID = "PGo-d5-HRJ"; */
+"PGo-d5-HRJ.text" = "15分钟前";
+
+/* Class = "IBUILabel"; text = "注册日期："; ObjectID = "R6i-Yw-a6W"; */
+"R6i-Yw-a6W.text" = "注册日期：";
+
+/* Class = "IBUITableViewSection"; headerTitle = "我的动态"; ObjectID = "RFF-m9-fDE"; */
+"RFF-m9-fDE.headerTitle" = "我的动态";
+
+/* Class = "IBUIButton"; normalTitle = "对话"; ObjectID = "ReW-wW-Mag"; */
+"ReW-wW-Mag.normalTitle" = "对话";
+
+/* Class = "IBUILabel"; text = "拍照"; ObjectID = "RrP-rT-Fdw"; */
+"RrP-rT-Fdw.text" = "拍照";
+
+/* Class = "IBUILabel"; text = "意见反馈"; ObjectID = "SMh-0y-gUv"; */
+"SMh-0y-gUv.text" = "意见反馈";
+
+/* Class = "IBUILabel"; text = "允许别人关注我"; ObjectID = "SOV-7g-pmn"; */
+"SOV-7g-pmn.text" = "允许别人关注我";
+
+/* Class = "IBUILabel"; text = "狂奔的包子茶花铺"; ObjectID = "TZj-LG-Zf3"; */
+"TZj-LG-Zf3.text" = "狂奔的包子茶花铺";
+
+/* Class = "IBUILabel"; text = "300km"; ObjectID = "VOH-4x-3vM"; */
+"VOH-4x-3vM.text" = "300km";
+
+/* Class = "IBUILabel"; text = "参加人数:889"; ObjectID = "VdU-va-2RF"; */
+"VdU-va-2RF.text" = "参加人数:889";
+
+/* Class = "IBUILabel"; text = "账号:"; ObjectID = "WfW-N4-TcQ"; */
+"WfW-N4-TcQ.text" = "账号:";
+
+/* Class = "IBUILabel"; text = "兴趣爱好："; ObjectID = "YQ8-Vw-bfE"; */
+"YQ8-Vw-bfE.text" = "兴趣爱好：";
+
+/* Class = "IBUILabel"; text = "性别：女"; ObjectID = "YkM-m0-1hq"; */
+"YkM-m0-1hq.text" = "性别：女";
+
+/* Class = "IBUILabel"; text = "地点:"; ObjectID = "Z3q-mW-9RB"; */
+"Z3q-mW-9RB.text" = "地点:";
+
+/* Class = "IBUITextField"; placeholder = "请输入邮箱"; ObjectID = "ZGa-im-onm"; */
+"ZGa-im-onm.placeholder" = "请输入邮箱";
+
+/* Class = "IBUILabel"; text = "咖  啡  号："; ObjectID = "ZJx-dm-k70"; */
+"ZJx-dm-k70.text" = "咖  啡  号：";
+
+/* Class = "IBUITableViewSection"; footerTitle = "  "; ObjectID = "ZWM-Kq-s2i"; */
+"ZWM-Kq-s2i.footerTitle" = "  ";
+
+/* Class = "IBUIButton"; normalTitle = "邀约"; ObjectID = "ZXy-VU-c8f"; */
+"ZXy-VU-c8f.normalTitle" = "邀约";
+
+/* Class = "IBUILabel"; text = "和泰咖啡厅"; ObjectID = "azs-Oh-DR2"; */
+"azs-Oh-DR2.text" = "和泰咖啡厅";
+
+/* Class = "IBUILabel"; text = "手机:"; ObjectID = "bea-yr-ueR"; */
+"bea-yr-ueR.text" = "手机:";
+
+/* Class = "IBUILabel"; text = "主题:"; ObjectID = "bzD-vA-cEg"; */
+"bzD-vA-cEg.text" = "主题:";
+
+/* Class = "IBUITextField"; placeholder = "请输入账号手机号或者邮箱"; ObjectID = "chH-Ad-Jwc"; */
+"chH-Ad-Jwc.placeholder" = "手机号/约我账号";
+
+/* Class = "IBUILabel"; text = "15394581676"; ObjectID = "do6-yv-enG"; */
+"do6-yv-enG.text" = "15394581676";
+
+/* Class = "IBUITableViewSection"; headerTitle = "基本信息"; ObjectID = "ejG-Sj-7Yp"; */
+"ejG-Sj-7Yp.headerTitle" = "基本信息";
+
+/* Class = "IBUIButton"; normalTitle = "我要收藏"; ObjectID = "elx-I5-mEf"; */
+"elx-I5-mEf.normalTitle" = "我要收藏";
+
+/* Class = "IBUILabel"; text = "特色:卡布基诺、某茶拿铁、红豆冰沙"; ObjectID = "fJq-OL-Z82"; */
+"fJq-OL-Z82.text" = "特色:卡布基诺、某茶拿铁、红豆冰沙";
+
+/* Class = "IBUILabel"; text = "密码:"; ObjectID = "gvG-Td-2KF"; */
+"gvG-Td-2KF.text" = "密码:";
+
+/* Class = "IBUILabel"; text = "时间:8-30周六19:30"; ObjectID = "h8t-b2-fXP"; */
+"h8t-b2-fXP.text" = "时间:8-30周六19:30";
+
+/* Class = "IBUILabel"; text = "Acciy"; ObjectID = "i6n-ic-tDo"; */
+"i6n-ic-tDo.text" = "Acciy";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "iIr-t7-5iq"; */
+"iIr-t7-5iq.normalTitle" = "登录";
+
+/* Class = "IBUILabel"; text = "时间:"; ObjectID = "ifm-0b-QeG"; */
+"ifm-0b-QeG.text" = "时间:";
+
+/* Class = "IBUIButton"; normalTitle = "发表留言"; ObjectID = "irC-jr-C2s"; */
+"irC-jr-C2s.normalTitle" = "发表留言";
+
+/* Class = "IBUILabel"; text = "2014光良\"回忆里疯狂\"巡回演唱会(上海)"; ObjectID = "jug-2a-s4f"; */
+"jug-2a-s4f.text" = "2014光良\"回忆里疯狂\"巡回演唱会(上海)";
+
+/* Class = "IBUILabel"; text = "还没有账号,点击"; ObjectID = "kBe-50-WsF"; */
+"kBe-50-WsF.text" = "还没有账号,点击";
+
+/* Class = "IBUIButton"; normalTitle = "拉黑"; ObjectID = "kO0-j0-YwV"; */
+"kO0-j0-YwV.normalTitle" = "拉黑";
+
+/* Class = "IBUILabel"; text = "家      乡："; ObjectID = "kcg-rL-zNe"; */
+"kcg-rL-zNe.text" = "家      乡：";
+
+/* Class = "IBUIButton"; normalTitle = "对话"; ObjectID = "kdJ-pK-YFY"; */
+"kdJ-pK-YFY.normalTitle" = "对话";
+
+/* Class = "IBUILabel"; text = "职      业："; ObjectID = "m4E-QT-pZm"; */
+"m4E-QT-pZm.text" = "职      业：";
+
+/* Class = "IBUILabel"; text = "常出没地："; ObjectID = "m7v-FB-a6C"; */
+"m7v-FB-a6C.text" = "常出没地：";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "mE5-9D-6sg"; */
+"mE5-9D-6sg.normalTitle" = "注册";
+
+/* Class = "IBUILabel"; text = "有大神没？官方文档说可以传多个参的,本来就没有啊"; ObjectID = "mIa-lN-c6k"; */
+"mIa-lN-c6k.text" = "有大神没？官方文档说可以传多个参的,本来就没有啊";
+
+/* Class = "IBUIButton"; normalTitle = "我要留言"; ObjectID = "mhw-nb-vlT"; */
+"mhw-nb-vlT.normalTitle" = "我要留言";
+
+/* Class = "IBUILabel"; text = "感觉很温馨的一家小店,经常会和朋友常过来,推荐卡布奇诺"; ObjectID = "nV5-Se-FRB"; */
+"nV5-Se-FRB.text" = "感觉很温馨的一家小店,经常会和朋友常过来,推荐卡布奇诺";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "obI-k4-zb9"; */
+"obI-k4-zb9.placeholder" = "请输入密码";
+
+/* Class = "IBUILabel"; text = "咖啡号：Carrity"; ObjectID = "pjL-rQ-kwk"; */
+"pjL-rQ-kwk.text" = "咖啡号：Carrity";
+
+/* Class = "IBUILabel"; text = "关于"; ObjectID = "rwH-0s-a2z"; */
+"rwH-0s-a2z.text" = "关于";
+
+/* Class = "IBUILabel"; text = "版本更新"; ObjectID = "s9b-sD-eb3"; */
+"s9b-sD-eb3.text" = "版本更新";
+
+/* Class = "IBUILabel"; text = "账号:"; ObjectID = "t0x-wE-Urs"; */
+"t0x-wE-Urs.text" = "账号:";
+
+/* Class = "IBUILabel"; text = "29799513@qq.com"; ObjectID = "tOg-Yk-GRw"; */
+"tOg-Yk-GRw.text" = "29799513@qq.com";
+
+/* Class = "IBUILabel"; text = "收藏的店铺"; ObjectID = "vm7-qT-SCl"; */
+"vm7-qT-SCl.text" = "收藏的店铺";
+
+/* Class = "IBUIButton"; normalTitle = "发布活动"; ObjectID = "wAE-0r-qKT"; */
+"wAE-0r-qKT.normalTitle" = "发布活动";
+
+/* Class = "IBUITableViewSection"; footerTitle = "  "; ObjectID = "wpW-ZG-LZ8"; */
+"wpW-ZG-LZ8.footerTitle" = "  ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "wzn-Dm-Leh"; */
+"wzn-Dm-Leh.text" = "Label";
+
+/* Class = "IBUILabel"; text = "选择相册照片"; ObjectID = "xSH-sU-vR5"; */
+"xSH-sU-vR5.text" = "选择相册照片";
+
+/* Class = "IBUIButton"; normalTitle = "我要留言"; ObjectID = "yPu-7R-q6q"; */
+"yPu-7R-q6q.normalTitle" = "我要留言";
+
+/* Class = "IBUILabel"; text = "<100m"; ObjectID = "zAZ-Hu-lrd"; */
+"zAZ-Hu-lrd.text" = "<100m";
+
+/* Class = "IBUILabel"; text = "密码:"; ObjectID = "zCf-8E-NNL"; */
+"zCf-8E-NNL.text" = "密码:";
+
+/* Class = "IBUILabel"; text = "3分钟以前"; ObjectID = "zNr-0a-jOU"; */
+"zNr-0a-jOU.text" = "3分钟以前";
+
+/* Class = "IBUILabel"; text = "请输入评价,谢谢!"; ObjectID = "zgT-tp-sgJ"; */
+"zgT-tp-sgJ.text" = "请输入评价,谢谢!";
+
+/* Class = "IBUILabel"; text = "邮箱:"; ObjectID = "zpO-5F-G39"; */
+"zpO-5F-G39.text" = "邮箱:";
