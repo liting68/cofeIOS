@@ -212,7 +212,7 @@
                                                               completion:
              ^(NSDictionary *loginInfo, EMError *error) {
                  
-                 NSLog(@"%u",error.errorCode);
+                 //NSLog(@"%u",error.errorCode);
                  
                  if (!error) {
                     

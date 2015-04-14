@@ -6,8 +6,9 @@
  */
 
 #import <Foundation/Foundation.h>
+
 #import "IEMFileMessageBody.h"
-#import "EMChatServiceDefs.h"
+#import "EMChatManagerDefs.h"
 
 @class EMChatVideo;
 @protocol IEMChatObject;
@@ -60,6 +61,12 @@
  @brief 远端视频文件的密钥, 下载时需要视频文件密钥和用户安全信息配合以下载远程视频文件
  */
 @property (nonatomic, strong) NSString *secretKey;
+
+/*!
+ @property
+ @brief 文件消息体的本地第一帧图片uuid
+ */
+@property (nonatomic, strong) NSString *thumbnailUuid;
 
 /*!
  @property

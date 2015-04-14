@@ -11,6 +11,7 @@
   */
 
 #import <UIKit/UIKit.h>
+#import <CoreLocation/CLLocation.h>
 
 @protocol LocationViewDelegate <NSObject>
 

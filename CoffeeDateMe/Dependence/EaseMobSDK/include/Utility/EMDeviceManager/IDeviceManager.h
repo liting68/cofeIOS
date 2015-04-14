@@ -6,9 +6,6 @@
  */
 #import <Foundation/Foundation.h>
 #import "IDeviceManagerProximitySensor.h"
-#import "IDeviceManagerLocation.h"
-#import "IDeviceManagerDevice.h"
-#import "IDeviceManagerCamera.h"
 #import "IDeviceManagerMedia.h"
 
 /*!
@@ -17,9 +14,6 @@
  @discussion
  */
 @protocol IDeviceManager <IDeviceManagerMedia,
-                        IDeviceManagerCamera,
-                        IDeviceManagerDevice,
-                        IDeviceManagerLocation,
                         IDeviceManagerProximitySensor>
 
 @required

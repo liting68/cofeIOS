@@ -7,10 +7,11 @@
 
 #import <Foundation/Foundation.h>
 
+#import "commonDefs.h"
 #import "EMGroupStyleSetting.h"
-#import "EMChatServiceDefs.h"
 
 @class EMError;
+@class EMGroupOccupant;
 
 /*!
  @class
@@ -50,43 +51,9 @@
 
 /*!
  @property
- @brief 群组的所有者
- @discussion
-        群组的所有者只有一人
- */
-@property (nonatomic, strong, readonly) NSString *owner;
-
-/*!
- @property
- @brief 群组的管理员列表
- @discussion
- 群组的管理员不止一人,可以通过动态更改群组成员的角色而成为群组的管理员
- */
-@property (nonatomic, strong, readonly) NSArray  *admins EM_DEPRECATED_IOS(2_0_3, 2_0_9, "Delete");
-
-/*!
- @property
- @brief 群组的普通成员列表
- */
-@property (nonatomic, strong, readonly) NSArray  *members;
-
-/*!
- @property
- @brief 此群组中的所有成员列表(owner, members)
- */
-@property (nonatomic, strong, readonly) NSArray  *occupants;
-
-/*!
- @property
- @brief 此群组黑名单中的成员列表
- */
-@property (nonatomic, strong, readonly) NSArray  *bans;
-
-/*!
- @property
  @brief 此群组的密码
  */
-@property (nonatomic, strong, readonly) NSString *password;
+@property (nonatomic, strong, readonly) NSString *password EM_DEPRECATED_IOS(2_0_3, 2_1_3, "Delete");
 
 /*!
  @property
@@ -113,11 +80,53 @@
 @property (nonatomic, readonly) BOOL isBlocked;
 
 /*!
- @method
- @brief 创建一个群组实例
- @param groupId          群组ID
- @result 返回新创建的群组
+ @property
+ @brief 群组的创建者
+ @discussion
+ 群组的所有者只有一人
  */
-- (id)initWithGroupId:(NSString *)groupId;
+@property (nonatomic, strong, readonly) NSString *owner;
 
+/*!
+ @property
+ @brief 群组的管理员列表
+ @discussion
+ 群组的管理员不止一人,可以通过动态更改群组成员的角色而成为群组的管理员
+ */
+@property (nonatomic, strong, readonly) NSArray  *admins EM_DEPRECATED_IOS(2_0_3, 2_0_9, "Delete");
+
+/*!
+ @property
+ @brief 群组的普通成员列表
+ */
+@property (nonatomic, strong, readonly) NSArray  *members;
+
+/*!
+ @property
+ @brief 此群组中的所有成员列表(owner, members)
+ */
+@property (nonatomic, strong, readonly) NSArray  *occupants;
+
+/*!
+ @property
+ @brief 此群组黑名单中的成员列表
+ @discussion 需要owner权限才能查看，非owner返回nil
+ */
+@property (nonatomic, strong, readonly) NSArray  *bans;
+
+/*!
+ @method
+ @brief 通过username获取它的属性(一般只有匿名群中会用到)
+ @param username 需要获取的occupant信息的username
+ @result 返回username在群组中的属性
+ */
+- (EMGroupOccupant *)occupantWithUsername:(NSString *)username;
+
+/*!
+ @method
+ @brief 如果不存在则创建一个群组实例
+ @param groupId          群组ID
+ @result 返回群组实例
+ */
++ (instancetype)groupWithId:(NSString *)groupId;
 @end
